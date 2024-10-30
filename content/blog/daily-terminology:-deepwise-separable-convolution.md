@@ -1,7 +1,8 @@
 ---
-title: Daily Term: Deepwise Separable Convolution
+title: Daily Term: Deepwise Separable Convolution [draf]
 date: 2024-09-26T09:41:43.693Z
 ---
+
 
 
 Dalam satu dekade belakangan, studi tentang kecerdasan buatan mulai tidak dapat dibendung lagi perkembangannya. Isilah AI sendiri, tadinya dalam bayangan kita dalam satu dekade yang lalu yang masih diasuh dengan cerita-cerita irasional, tidak lebih dari kosakata futuristik yang hanya ada dalam film-film *science fiction/Sci-Fi* telah banyak kita jumpai pada produk-produk komersial. Agaknya berlebihan, tetapi ini memungkinkan ketika imajinasi tidak dapat menjelaskan abstraksi dibalik kecerdasan buatan itu sendiri; definisi dan cara kerjanya; yang pada satu kesimpulan subjektif adalah kemustahilan.
