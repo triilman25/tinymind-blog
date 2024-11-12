@@ -6,6 +6,7 @@ date: 2024-10-28T00:53:23.925Z
 
 
 
+
 disclimer:
 **Blog ini bersifat subjektif. Jika ada ungkapan atau kalimat yang sama itu karena ketidak tahuan saya. Saya seorang *Informatic engineer* dan analisis pada tulisan ini berdasarkan *personal eksperience* yang tidak jauh dari cakupan bidang saya. Definisi yang ada dalam tulisan ini merupakan definisi pribadi dan lemah jika dijadikan referensi.**
 
@@ -40,10 +41,15 @@ menurut saya cara seperti ini kurang formal apalagi jika dipakai dalam grup chat
 
 kesimpuan yang dapat saya sampaikan, sebagai pengguna adalah untuk lebih memperhatikan apa yang dituliskan dan seberapa urgensinya bagi grup agar pesan tersebut tidak menjadi spam bagi pengguna lain yang ingin mendapatkan manfaat dari grup tersebut. *instant messenger* tidak memiliki fitur validasi pesan seperti email tetapi menawarkan percakapan *real-time*, jadi sebisa mungkin memanfaatkan fitur yang tersedia sebaik mungkin dan ciptakan lingkungan grup yang tidak hanya sehat tetapi bersih dari spam.
  
-Mungkin sekian yang dapat saya sampaikan. *pull requests* untuk mengirimkan kritik dan saran ke github [triilman25][1] atau klik *stars badge* di bawah. **Ingat!! Buat Pesan, bukan Spam**. Terima kasih telah membaca.
+Mungkin sekian yang dapat saya sampaikan. *pull requests* untuk mengirimkan kritik dan saran ke github [triilman25][1] atau email saya dengan klik *email badge* di bawah. **Jangan spam saya**. Terima kasih telah membaca.
 
 [1]: https://github.com/triilman25/tinymind-blog/pulls
+
 #lazyblog#chat#UX
 
+|[🌳My Link Tree](https://lynx.boo/triilman)|[If this blog interesting, give me stars](https://github.com/triilman25/tinymind-blog "Don't give me stars if you feel sorry or because of relationships. Your advice more meaningful to me")|[📧EMAIL ME](https://letterbird.co/ilmanfattah25)|
+|:---|:---:|---:|
+
 [![GitHub Repo stars](https://img.shields.io/github/stars/triilman25/tinymind-blog?style=for-the-badge&labelColor=%23dfe4ea&color=%23ffffff&link=https%3A%2F%2Fgithub.com%2Ftriilman25%2Ftinymind-blog)](https://github.com/triilman25/tinymind-blog)
+
 ![Written-By-Human-Not-By-AI-Badge-white.png](https://github.com/triilman25/tinymind-blog/blob/main/assets/images/2024-10-26/1729917860180.png?raw=true)
