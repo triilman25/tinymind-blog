@@ -38,7 +38,7 @@ menurut saya cara seperti ini kurang formal apalagi jika dipakai dalam grup chat
 
 kesimpuan yang dapat saya sampaikan, sebagai pengguna adalah untuk lebih memperhatikan apa yang dituliskan dan seberapa urgensinya bagi grup agar pesan tersebut tidak menjadi spam bagi pengguna lain yang ingin mendapatkan manfaat dari grup tersebut. *instant messenger* tidak memiliki fitur validasi pesan seperti email tetapi menawarkan percakapan *real-time*, jadi sebisa mungkin memanfaatkan fitur yang tersedia sebaik mungkin dan ciptakan lingkungan grup yang tidak hanya sehat tetapi bersih dari spam.
  
-Mungkin sekian yang dapat saya sampaikan. *pull requests* untuk mengirimkan kritik dan saran ke github [triilman25][1]. **Ingat!! Buat Pesan, bukan Spam**. Terima kasih telah membaca.
+Mungkin sekian yang dapat saya sampaikan. *pull requests* untuk mengirimkan kritik dan saran ke github [triilman25][1] atau klik *stars badge* di bawah. **Ingat!! Buat Pesan, bukan Spam**. Terima kasih telah membaca.
 
 [1]: https://github.com/triilman25/tinymind-blog/pulls
 #lazyblog#chat#UX
