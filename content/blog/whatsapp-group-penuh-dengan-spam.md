@@ -3,9 +3,6 @@ title: WhatsApp Group Penuh dengan Spam
 date: 2024-10-28T00:53:23.925Z
 ---
 
-
-
-
 ![GitHub Repo stars](https://img.shields.io/github/stars/triilman25/tinymind-blog?style=flat-square&labelColor=%23dfe4ea&color=%23ffffff)
 
 disclimer:
