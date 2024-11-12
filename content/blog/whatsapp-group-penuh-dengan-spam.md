@@ -7,6 +7,7 @@ date: 2024-10-28T00:53:23.925Z
 
 
 
+
 disclimer:
 **Blog ini bersifat subjektif. Jika ada ungkapan atau kalimat yang sama itu karena ketidak tahuan saya. Saya seorang *Informatic engineer* dan analisis pada tulisan ini berdasarkan *personal eksperience* yang tidak jauh dari cakupan bidang saya. Definisi yang ada dalam tulisan ini merupakan definisi pribadi dan lemah jika dijadikan referensi.**
 
@@ -47,7 +48,7 @@ Mungkin sekian yang dapat saya sampaikan. *pull requests* untuk mengirimkan krit
 
 #lazyblog#chat#UX
 
-|[🌳My Link Tree](https://lynx.boo/triilman)|[If this blog interesting, give me stars](https://github.com/triilman25/tinymind-blog "Don't give me stars if you feel sorry or because of relationships. Your advice more meaningful to me")|[📧EMAIL ME](https://letterbird.co/ilmanfattah25)|
+|[🌳My Link Tree](https://lynx.boo/triilman)|[If this blog interesting, give me stars](https://github.com/triilman25/tinymind-blog "Don't give me stars if you feel sorry or because of relationships. Your advice more meaningful to me")|[📧MY EMAIL](https://letterbird.co/ilmanfattah25)|
 |:---|:---:|---:|
 
 [![GitHub Repo stars](https://img.shields.io/github/stars/triilman25/tinymind-blog?style=for-the-badge&labelColor=%23dfe4ea&color=%23ffffff&link=https%3A%2F%2Fgithub.com%2Ftriilman25%2Ftinymind-blog)](https://github.com/triilman25/tinymind-blog)
