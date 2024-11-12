@@ -8,7 +8,6 @@ date: 2024-10-28T00:53:23.925Z
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/triilman25/tinymind-blog?style=flat-square&labelColor=%23dfe4ea&color=%23ffffff)
 
-
 disclimer:
 **Blog ini bersifat subjektif. Jika ada ungkapan atau kalimat yang sama itu karena ketidak tahuan saya. Saya seorang *Informatic engineer* dan analisis pada tulisan ini berdasarkan *personal eksperience* yang tidak jauh dari cakupan bidang saya. Definisi yang ada dalam tulisan ini merupakan definisi pribadi dan lemah jika dijadikan referensi.**
 
