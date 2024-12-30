@@ -11,6 +11,7 @@ date: 2024-10-28T00:53:23.925Z
 
 
 
+
 disclimer:
 **Blog ini bersifat subjektif. Jika ada ungkapan atau kalimat yang sama itu karena ketidak tahuan saya. Saya seorang *Informatic engineer* dan analisis pada tulisan ini berdasarkan *personal eksperience* yang tidak jauh dari cakupan bidang saya. Definisi yang ada dalam tulisan ini merupakan definisi pribadi dan lemah jika dijadikan referensi.**
 
@@ -55,8 +56,7 @@ Mungkin sekian yang dapat saya sampaikan. *pull requests* untuk mengirimkan krit
 |:---|:---:|---:|
 
 [![GitHub Repo stars](https://img.shields.io/github/stars/triilman25/tinymind-blog?style=for-the-badge&labelColor=%23dfe4ea&color=%23ffffff&link=https%3A%2F%2Fgithub.com%2Ftriilman25%2Ftinymind-blog)](https://github.com/triilman25/tinymind-blog "Because this blogs just using one repository, so the stars are accumulated result of all of blogs.") 
-![HackerNews User Karma](https://img.shields.io/hackernews/user-karma/triilman?style=for-the-badge)
-
+![HackerNews User Karma](https://img.shields.io/hackernews/user-karma/triilman?style=for-the-badge&color=orange)
 
 
 ![Written-By-Human-Not-By-AI-Badge-white.png](https://github.com/triilman25/tinymind-blog/blob/main/assets/images/2024-10-26/1729917860180.png?raw=true)
