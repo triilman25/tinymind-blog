@@ -4,20 +4,25 @@ date: 2025-04-25T03:30:37.969Z
 ---
 
 
+
 ## Apa itu EMACS?
-EMACS atau GNU EMACS merupakan text editor gratis yang cukup tua yang dapat disandingkan dengan text editor seperti VI (Vim dan Neovim merupakan turunan teks editor ini). EMACS merupakan text editor yang masih aktif dikembangkan dan memiliki fitur yang dapat disamakan dengan text editor modern seperti VS Code atau turunan dari VI seperti Neovim. EMACS dapat dikatakan sebagai editor yang matang, sangat dapat dikustomisasi, dan dikembangkan dengan bahasa pemrogramannya sendiri yang disebut sebagai *emacs lisp* (file konfigurasinya juga menggunakan *emacs lisp* dengan ekstensi file *.el*). 
+EMACS atau GNU EMACS merupakan teks editor gratis yang cukup tua yang dapat disandingkan dengan teks editor seperti VI (Vim dan Neovim merupakan turunan teks editor ini). EMACS merupakan teks editor yang masih aktif dikembangkan dan memiliki fitur yang dapat disamakan dengan teks editor modern seperti VS Code atau turunan dari VI seperti Neovim. EMACS dapat dikatakan sebagai editor yang matang, sangat dapat dikustomisasi, dan dikembangkan dengan bahasa pemrogramannya sendiri yang disebut sebagai *emacs lisp* (file konfigurasinya juga menggunakan *emacs lisp* dengan ekstensi file *.el*). 
 
-Bagi pengguna VS Code yang tidak asing dengan ekstensi yang sangat membantu untuk menyesuaikan lingkungan pengembangan semudah mendowload file, itu juga tersedia pada EMACS yang memiliki beberapa *repository package* yang dapat diunduh untuk mempermudah proses pengembangan. Dua repository EMACS yang populer seperti *elpa* (official dari pengembang EMACS) dan *melpa* (non-official) yang sangat mencukupi pengengembangan software--apalagi pada versi 29+, EMACS telah mendukung konfigurasi *tree-sitter* secara *default* yang memungkinkan EMACS menyediakan *syntax highlight* pada bahasa pemrograman baru yang tidak tersedia pada repository EMACS.
+Bagi pengguna VS Code yang tidak asing dengan ekstensi yang sangat membantu untuk menyesuaikan lingkungan pengembangan semudah mendowload file, fitur seperti ini juga tersedia pada EMACS yang memiliki beberapa *repository package* yang dapat diunduh untuk mempermudah proses penggunaan EMACS. Dua repository EMACS yang populer seperti *elpa* (official dari pengembang EMACS) dan *melpa* (non-official) yang sangat mencukupi pengengembangan software--apalagi pada versi 29+, EMACS telah mendukung konfigurasi *tree-sitter* secara *default* yang memungkinkan EMACS menyediakan *syntax highlight* pada bahasa pemrograman baru yang tidak tersedia pada repository EMACS.
 
-EMACS tersedia pada beberapa jenis platform seperti GNU/Linux, BSDs, Windows, macOS, dan yang terbaru adalah Android. Kasus yang paling logis EMACS tersedia pada perangkat android tidak lain untuk menyediakan dukungan pada perangkat dengan ChromeOS dan bukan mobile--terlalu *overkill* jika hanya dipakai pada perangkat mobile.
+EMACS tersedia pada beberapa jenis platform seperti GNU/Linux, BSDs, Windows, macOS, dan yang terbaru adalah Android. Kasus yang paling logis EMACS tersedia pada perangkat android tidak lain untuk menyediakan dukungan pada perangkat dengan ChromeOS dan bukan mobile--*overkill* jika digunakan untuk perangkat mobile.
 
 ## Terminologi pada EMACS
-EMACS memiliki keunikan tersendiri termasuk pemakaian istilah teknis terkait cara EMACS mengontrol atau memanipulasi teks serta proses teknis lainnya yang sangat jauh berbeda dengan editor lain. EMACS tidak berbagai terminologi yang sama pada sebagian besar teks editor modern dan berbagai sedikit terminologi yang sama dengan VI atau VIM, sisanya memiliki terminologi yang berbeda karena karakteristik EMACS yang berbeda dengan text editor lain. Berikut konsep dan istilah yang anda dapatkan ketika menggunakan EMACS:
+EMACS memiliki keunikan tersendiri termasuk pemakaian istilah teknis terkait cara EMACS mengontrol atau memanipulasi teks serta proses teknis lainnya yang sangat jauh berbeda dengan teks editor lain. EMACS tidak berbagai terminologi yang sama pada sebagian besar teks editor modern dan berbagai sedikit terminologi yang sama dengan VI atau Vim, sisanya memiliki terminologi yang berbeda karena karakteristik EMACS yang berbeda dengan text editor lain. Berikut konsep dan istilah yang anda dapatkan ketika menggunakan EMACS:
 
-- *Buffer*.
-- *Kill* sama  dengan *cut* pada karakter, word, text, file, atau direktory.
-- *Kill-ring*
-- *Yank* 
+- *frame* dan *window*. Karena alasan historis dimana desktop komputer saat EMACS pertama kali diperkenalkan
+- *Buffer*. Semua file pada EMACS disebut buffer, karena setiap teks yang dapat ditulis pada EMACS sifatnya sementaray (*temporary*). Bahkan baris command yang berada di *frame* bawah yang digunakan untuk melakukan kontrol, kustomisasi, dan hal mekanisme lainnya disebut *mini-buffer*. *Buffer* disebut file ketika *buffer* di simpan di dalam persintent storage atau penyimpanan permanen.
+- *Kill*. sama  dengan *cut* atau memotong karakter, word, text, file, atau direktory. Text atau file yang di *kill* akan tersimpan di dalam *kill-ring*.
+- *Kill-ring*. memiliki konsep yang sama dengan *clipboard* atau boleh dibilang merupakan *clipboard* itu sendiri dan dapat di diakses di luar lingkungan pengembangan EMACS. *Kill-ring* sendiri memiliki mekanisme yang sama dengan clipboard windows 11 yang dapat menyalin dan menyimpan teks/item lebih dari satu.
+- *Yank*. 
+- *region*.
+- *dired*.
+
 
 
 (Draf)
