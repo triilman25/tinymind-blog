@@ -12,6 +12,7 @@ date: 2024-10-28T00:53:23.925Z
 
 
 
+
 disclimer:
 **Blog ini bersifat subjektif. Jika ada ungkapan atau kalimat yang sama itu karena ketidak tahuan saya. Saya seorang *Informatic engineer* dan analisis pada tulisan ini berdasarkan *personal eksperience* yang tidak jauh dari cakupan bidang saya. Definisi yang ada dalam tulisan ini merupakan definisi pribadi dan lemah jika dijadikan referensi.**
 
