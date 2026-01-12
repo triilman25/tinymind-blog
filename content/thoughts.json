@@ -1,5 +1,10 @@
 [
   {
+    "id": "1768176006829",
+    "content": "moonpyst = motion + typst \nis a library as alternative of LaTeX for manim.",
+    "timestamp": "2026-01-12T00:00:06.829Z"
+  },
+  {
     "id": "1768138280493",
     "content": "_Blinking LED_\n\n![chip xiao nrf52840.gif](https://raw.githubusercontent.com/triilman25/tinymind-blog/main/assets/images/2026-01-11/1768138203233.gif)",
     "timestamp": "2026-01-11T13:31:20.493Z"
