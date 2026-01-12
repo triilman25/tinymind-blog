@@ -1,7 +1,7 @@
 [
   {
     "id": "1768176006829",
-    "content": "moonyst = motion + typst \nis a library as alternative of LaTeX for manim.",
+    "content": "nimyst = manim + typst\nis a library as alternative of LaTeX for manim.",
     "timestamp": "2026-01-12T00:00:06.829Z"
   },
   {
