@@ -3,6 +3,7 @@ title: Nuki Ripple 1.0 Voice Command
 date: 2026-02-27T01:53:27.727Z
 ---
 
+
 Nuki Ripple merupakan digital clock dengan kemampuan untuk mengontrol perangkat elektronik berbasis _infrared_ seperti _smart_ TV dan _Air Conditioner Temperature_ (AC).
 ## Hello Nuki Introduction
 
@@ -28,3 +29,40 @@ Membangunkan nuki dengan cara memanggil "Hello Nuki" yang kemudian dapat diikuti
 
 ## Kata Perintah Lampu Malam
 
+```text
+┏━━━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃       Fungsi        ┃          Kata Perintah           ┃
+┣━━━━━━━━━━━━━━━━━━━━━╋━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┫
+┃                     ┃       Nyalakan Lampu Malam       ┃
+┃                     ┣━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┫
+┃                     ┃       Matikan Lampu Malam        ┃
+┃                     ┣━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┫
+┃                     ┃     Lebih Terang Lampu Malam     ┃
+┃     Lampu Malam     ┣━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┫
+┃                     ┃     Lebih Redup Lampu Malam      ┃
+┃                     ┣━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┫
+┃                     ┃     Paling Redup Lampu Malam     ┃
+┃                     ┣━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┫
+┃                     ┃    Paling Terang Lampu Malam     ┃
+┗━━━━━━━━━━━━━━━━━━━━━┻━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+```
+
+## Kata Perintah Jam / Alaram
+
+```text
+┏━━━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃       Fungsi        ┃                      Kata Perintah                       ┃
+┣━━━━━━━━━━━━━━━━━━━━━╋━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━━━┫
+┃                     ┃            Atur Waktu            ┃DUA-PULUH-DELAPAN      ┃
+┃                     ┣━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╋━━━━━━━━━━━━━━━━━━━━━━━┫
+┃                     ┃       Jam Berapa Sekarang        ┃DUA-PULUH-SEMBILAN     ┃
+┃                     ┣━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╋━━━━━━━━━━━━━━━━━━━━━━━┫
+┃                     ┃         Atur Waktu Alarm         ┃TIGA-PULUH             ┃
+┃      Jam/Alarm      ┣━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╋━━━━━━━━━━━━━━━━━━━━━━━┫
+┃                     ┃         Cek Waktu Alarm          ┃TIGA-PULUH-SATU        ┃
+┃                     ┣━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╋━━━━━━━━━━━━━━━━━━━━━━━┫
+┃                     ┃          Matikan Alarm           ┃TIGA-PULUH-DUA         ┃
+┃                     ┣━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╋━━━━━━━━━━━━━━━━━━━━━━━┫
+┃                     ┃              KOSONG              ┃SEBELAS                ┃
+┗━━━━━━━━━━━━━━━━━━━━━┻━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┻━━━━━━━━━━━━━━━━━━━━━━━┛
+```
